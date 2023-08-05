@@ -1,6 +1,6 @@
 import { PayloadAction, ThunkAction, createSlice } from "@reduxjs/toolkit";
 import { RootState } from "..";
-import axios, { isAxiosError } from "../axios";
+import axios from "../axios";
 import { errorHandler } from "@/utils/helpers";
 
 type StatusType = "DONE" | "ONPROGRESS" | "PENDING";
