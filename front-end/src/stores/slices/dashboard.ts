@@ -1,6 +1,7 @@
 import { PayloadAction, ThunkAction, createSlice } from "@reduxjs/toolkit";
 import { RootState } from "..";
 import axios, { isAxiosError } from "../axios";
+import { errorHandler } from "@/utils/helpers";
 
 type StatusType = "DONE" | "ONPROGRESS" | "PENDING";
 
@@ -65,18 +66,9 @@ export const fetchDashboard =
       dispatch(getStatistic(payload.statistic));
       dispatch(getProgress(payload.progress));
     } catch (error) {
-      console.log(error);
-      if (isAxiosError(error)) {
-        let errorMessage;
+      let errorMessage: string = errorHandler(error);
 
-        if (error.response) {
-          errorMessage = { ...error.response?.data.payload.errorMessage };
-        } else {
-          errorMessage = error.message;
-        }
-
-        dispatch(catchErrorDashboard(errorMessage));
-      }
+      dispatch(catchErrorDashboard(errorMessage));
     }
   };
 

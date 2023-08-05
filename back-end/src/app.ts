@@ -12,7 +12,7 @@ import { errorHandler } from "./middleware/errorHandler.js";
 
 const app: express.Application = express();
 
-app.use(cors({ origin: [process.env.FRONT_END_URL], credentials: true }));
+app.use(cors({ origin: process.env.FRONT_END_URL, credentials: true }));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookies());

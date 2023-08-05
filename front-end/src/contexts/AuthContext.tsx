@@ -1,5 +1,6 @@
 import React, { createContext, useContext, useState, useEffect } from "react";
 import axios, { isAxiosError } from "@/stores/axios";
+import { errorHandler } from "@/utils/helpers";
 
 interface UserInfo {
   username: string;
@@ -44,10 +45,8 @@ const AuthContextProvider: React.FC<{ children: React.ReactNode }> = ({
       setUserInfo(userData);
       setIsLogin(true);
     } catch (error) {
-      if (isAxiosError(error)) {
-        const errorMessage: AxiosErrorType = { ...error.response?.data };
-        throw errorMessage.payload.errorMessage;
-      }
+      let errorMessage: string = errorHandler(error);
+      throw errorMessage;
     }
   }
 
@@ -60,8 +59,8 @@ const AuthContextProvider: React.FC<{ children: React.ReactNode }> = ({
       setIsLogin(false);
     } catch (error) {
       if (isAxiosError(error)) {
-        const errorMessage: AxiosErrorType = { ...error.response?.data };
-        throw errorMessage.payload.errorMessage;
+        let errorMessage: string = errorHandler(error);
+        throw errorMessage;
       }
     }
   }
