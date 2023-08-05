@@ -1,0 +1,7 @@
+/node_modules
+/dist
+.env
+
+# for development
+/src/bin/backOffice
+/src/**/backOffice.ts

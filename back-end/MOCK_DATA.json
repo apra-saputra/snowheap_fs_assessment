@@ -1,0 +1,802 @@
+[
+  {
+    "name": "Lotstring",
+    "description": "Revision of Internal Fixation Device in Right Tarsal Joint, Open Approach",
+    "status": "PENDING",
+    "costs": "529000000",
+    "target": "2025-04-07",
+    "authorId": 1
+  },
+  {
+    "name": "Opela",
+    "description": "Excision of Right Lower Lobe Bronchus, Percutaneous Endoscopic Approach, Diagnostic",
+    "status": "PENDING",
+    "costs": "656000000",
+    "target": "2024-09-14",
+    "authorId": 3
+  },
+  {
+    "name": "Pannier",
+    "description": "Drainage of Right Breast with Drainage Device, Open Approach",
+    "status": "ONPROGRESS",
+    "costs": "377000000",
+    "target": "2025-01-08",
+    "authorId": 2
+  },
+  {
+    "name": "Flowdesk",
+    "description": "Dilation of Gastric Vein, Percutaneous Endoscopic Approach",
+    "status": "PENDING",
+    "costs": "917000000",
+    "target": "2025-05-15",
+    "authorId": 2
+  },
+  {
+    "name": "Bytecard",
+    "description": "Inspection of Pericardial Cavity, Open Approach",
+    "status": "PENDING",
+    "costs": "607000000",
+    "target": "2024-03-30",
+    "authorId": 2
+  },
+  {
+    "name": "Gembucket",
+    "description": "Repair Lower Lip, Percutaneous Approach",
+    "status": "ONPROGRESS",
+    "costs": "042000000",
+    "target": "2026-12-14",
+    "authorId": 2
+  },
+  {
+    "name": "Zoolab",
+    "description": "Aphasia Treatment using Other Equipment",
+    "status": "ONPROGRESS",
+    "costs": "356000000",
+    "target": "2024-09-27",
+    "authorId": 3
+  },
+  {
+    "name": "Veribet",
+    "description": "Insertion of Intraluminal Device into Superior Vena Cava, Percutaneous Approach",
+    "status": "DONE",
+    "costs": "660000000",
+    "target": "2026-12-29",
+    "authorId": 3
+  },
+  {
+    "name": "Asoka",
+    "description": "Plain Radiography of Bilateral Eyes",
+    "status": "ONPROGRESS",
+    "costs": "267000000",
+    "target": "2025-06-08",
+    "authorId": 2
+  },
+  {
+    "name": "Flexidy",
+    "description": "Reposition Left Elbow Joint, Percutaneous Endoscopic Approach",
+    "status": "PENDING",
+    "costs": "805000000",
+    "target": "2025-05-28",
+    "authorId": 3
+  },
+  {
+    "name": "Prodder",
+    "description": "Low Dose Rate (LDR) Brachytherapy of Spinal Cord using Other Isotope",
+    "status": "DONE",
+    "costs": "868000000",
+    "target": "2024-12-09",
+    "authorId": 2
+  },
+  {
+    "name": "Otcom",
+    "description": "Removal of Autologous Tissue Substitute from Left Carpal Joint, Percutaneous Endoscopic Approach",
+    "status": "PENDING",
+    "costs": "891000000",
+    "target": "2024-04-17",
+    "authorId": 3
+  },
+  {
+    "name": "Keylex",
+    "description": "Release Thoracic Spinal Cord, Percutaneous Approach",
+    "status": "ONPROGRESS",
+    "costs": "421000000",
+    "target": "2025-03-03",
+    "authorId": 2
+  },
+  {
+    "name": "Konklux",
+    "description": "Supplement of Right Hand Subcutaneous Tissue and Fascia with Synthetic Substitute, Open Approach",
+    "status": "DONE",
+    "costs": "930000000",
+    "target": "2026-01-24",
+    "authorId": 1
+  },
+  {
+    "name": "Latlux",
+    "description": "Release Femoral Nerve, Percutaneous Approach",
+    "status": "DONE",
+    "costs": "315000000",
+    "target": "2026-03-01",
+    "authorId": 1
+  },
+  {
+    "name": "It",
+    "description": "Extirpation of Matter from Right Common Iliac Artery, Open Approach",
+    "status": "PENDING",
+    "costs": "013000000",
+    "target": "2026-08-31",
+    "authorId": 2
+  },
+  {
+    "name": "Tres-Zap",
+    "description": "Drainage of Left Mandible, Open Approach",
+    "status": "ONPROGRESS",
+    "costs": "893000000",
+    "target": "2025-02-02",
+    "authorId": 3
+  },
+  {
+    "name": "Mat Lam Tam",
+    "description": "Repair Left Ankle Bursa and Ligament, Open Approach",
+    "status": "DONE",
+    "costs": "795000000",
+    "target": "2025-11-14",
+    "authorId": 2
+  },
+  {
+    "name": "Treeflex",
+    "description": "Stereotactic Particulate Radiosurgery of Bone Marrow",
+    "status": "PENDING",
+    "costs": "220000000",
+    "target": "2026-06-10",
+    "authorId": 3
+  },
+  {
+    "name": "Holdlamis",
+    "description": "Alteration of Female Perineum with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",
+    "status": "PENDING",
+    "costs": "675000000",
+    "target": "2024-06-07",
+    "authorId": 3
+  },
+  {
+    "name": "Lotstring",
+    "description": "Excision of Right Femoral Artery, Open Approach, Diagnostic",
+    "status": "PENDING",
+    "costs": "645000000",
+    "target": "2026-12-29",
+    "authorId": 2
+  },
+  {
+    "name": "Temp",
+    "description": "Occlusion of Right Uterine Artery with Extraluminal Device, Percutaneous Approach",
+    "status": "DONE",
+    "costs": "929000000",
+    "target": "2026-09-14",
+    "authorId": 3
+  },
+  {
+    "name": "Cookley",
+    "description": "Inspection of Gastrointestinal Tract, Via Natural or Artificial Opening Endoscopic Approach",
+    "status": "PENDING",
+    "costs": "267000000",
+    "target": "2026-05-07",
+    "authorId": 2
+  },
+  {
+    "name": "Bitwolf",
+    "description": "Fusion of 8 or more Thoracic Vertebral Joints with Autologous Tissue Substitute, Posterior Approach, Anterior Column, Percutaneous Endoscopic Approach",
+    "status": "PENDING",
+    "costs": "581000000",
+    "target": "2025-07-06",
+    "authorId": 2
+  },
+  {
+    "name": "Quo Lux",
+    "description": "Removal of Drainage Device from Lower Artery, Percutaneous Approach",
+    "status": "PENDING",
+    "costs": "331000000",
+    "target": "2025-02-27",
+    "authorId": 1
+  },
+  {
+    "name": "Viva",
+    "description": "Excision of Left Main Bronchus, Via Natural or Artificial Opening",
+    "status": "ONPROGRESS",
+    "costs": "487000000",
+    "target": "2023-08-31",
+    "authorId": 3
+  },
+  {
+    "name": "Biodex",
+    "description": "Grooming/Personal Hygiene Assessment using Prosthesis",
+    "status": "ONPROGRESS",
+    "costs": "970000000",
+    "target": "2026-07-12",
+    "authorId": 3
+  },
+  {
+    "name": "Kanlam",
+    "description": "Range of Motion and Joint Mobility Treatment of Musculoskeletal System - Head and Neck using Prosthesis",
+    "status": "PENDING",
+    "costs": "017000000",
+    "target": "2025-06-02",
+    "authorId": 3
+  },
+  {
+    "name": "Quo Lux",
+    "description": "Bypass Right Internal Iliac Artery to Left Internal Iliac Artery with Autologous Venous Tissue, Open Approach",
+    "status": "ONPROGRESS",
+    "costs": "611000000",
+    "target": "2023-08-31",
+    "authorId": 3
+  },
+  {
+    "name": "Viva",
+    "description": "Dilation of Left Temporal Artery with Intraluminal Device, Percutaneous Endoscopic Approach",
+    "status": "DONE",
+    "costs": "047000000",
+    "target": "2026-11-15",
+    "authorId": 3
+  },
+  {
+    "name": "Zoolab",
+    "description": "Bypass Left Ureter to Cutaneous with Synthetic Substitute, Percutaneous Endoscopic Approach",
+    "status": "DONE",
+    "costs": "971000000",
+    "target": "2026-11-14",
+    "authorId": 3
+  },
+  {
+    "name": "Trippledex",
+    "description": "Computerized Tomography (CT Scan) of Left Wrist",
+    "status": "ONPROGRESS",
+    "costs": "211000000",
+    "target": "2026-10-15",
+    "authorId": 3
+  },
+  {
+    "name": "Domainer",
+    "description": "Measurement of Visual Mobility, External Approach",
+    "status": "ONPROGRESS",
+    "costs": "050000000",
+    "target": "2026-12-06",
+    "authorId": 3
+  },
+  {
+    "name": "Sub-Ex",
+    "description": "Beam Radiation of Salivary Glands using Electrons",
+    "status": "PENDING",
+    "costs": "700000000",
+    "target": "2026-11-02",
+    "authorId": 2
+  },
+  {
+    "name": "Zontrax",
+    "description": "Supplement Right Occipital Bone with Autologous Tissue Substitute, Percutaneous Approach",
+    "status": "PENDING",
+    "costs": "746000000",
+    "target": "2026-06-08",
+    "authorId": 3
+  },
+  {
+    "name": "Zathin",
+    "description": "Tendons, Reattachment",
+    "status": "ONPROGRESS",
+    "costs": "483000000",
+    "target": "2024-07-27",
+    "authorId": 3
+  },
+  {
+    "name": "Sonsing",
+    "description": "Supplement Thoracic Aorta, Descending with Zooplastic Tissue, Percutaneous Approach",
+    "status": "ONPROGRESS",
+    "costs": "397000000",
+    "target": "2026-02-15",
+    "authorId": 2
+  },
+  {
+    "name": "Temp",
+    "description": "Drainage of Ampulla of Vater, Via Natural or Artificial Opening Endoscopic, Diagnostic",
+    "status": "PENDING",
+    "costs": "750000000",
+    "target": "2026-11-26",
+    "authorId": 3
+  },
+  {
+    "name": "Veribet",
+    "description": "Repair Left Common Iliac Artery, Percutaneous Approach",
+    "status": "ONPROGRESS",
+    "costs": "520000000",
+    "target": "2025-04-06",
+    "authorId": 2
+  },
+  {
+    "name": "Veribet",
+    "description": "Resection of Thoracic Vertebral Disc, Open Approach",
+    "status": "ONPROGRESS",
+    "costs": "364000000",
+    "target": "2024-10-23",
+    "authorId": 2
+  },
+  {
+    "name": "Fixflex",
+    "description": "Drainage of Right Knee Bursa and Ligament, Percutaneous Approach",
+    "status": "DONE",
+    "costs": "498000000",
+    "target": "2025-09-01",
+    "authorId": 3
+  },
+  {
+    "name": "Greenlam",
+    "description": "Fluoroscopy of Left Lower Extremity Veins using High Osmolar Contrast, Guidance",
+    "status": "ONPROGRESS",
+    "costs": "622000000",
+    "target": "2026-05-26",
+    "authorId": 3
+  },
+  {
+    "name": "Stringtough",
+    "description": "Insertion of Internal Fixation Device into Right Metacarpocarpal Joint, Percutaneous Approach",
+    "status": "DONE",
+    "costs": "430000000",
+    "target": "2024-04-07",
+    "authorId": 2
+  },
+  {
+    "name": "Tresom",
+    "description": "Control Bleeding in Upper Jaw, Percutaneous Endoscopic Approach",
+    "status": "ONPROGRESS",
+    "costs": "006000000",
+    "target": "2023-08-14",
+    "authorId": 3
+  },
+  {
+    "name": "Viva",
+    "description": "Dilation of Left Ulnar Artery with Intraluminal Device, Open Approach",
+    "status": "DONE",
+    "costs": "928000000",
+    "target": "2024-03-03",
+    "authorId": 2
+  },
+  {
+    "name": "Asoka",
+    "description": "Repair Upper Gingiva, Open Approach",
+    "status": "PENDING",
+    "costs": "561000000",
+    "target": "2026-09-05",
+    "authorId": 1
+  },
+  {
+    "name": "Bitchip",
+    "description": "Repair Cervix, Percutaneous Endoscopic Approach",
+    "status": "PENDING",
+    "costs": "395000000",
+    "target": "2024-08-01",
+    "authorId": 2
+  },
+  {
+    "name": "Lotstring",
+    "description": "Transfusion of Nonautologous Plasma Cryoprecipitate into Products of Conception, Circulatory, Percutaneous Approach",
+    "status": "PENDING",
+    "costs": "996000000",
+    "target": "2024-07-02",
+    "authorId": 1
+  },
+  {
+    "name": "Cardify",
+    "description": "Extirpation of Matter from Chordae Tendineae, Percutaneous Approach",
+    "status": "DONE",
+    "costs": "855000000",
+    "target": "2023-08-08",
+    "authorId": 3
+  },
+  {
+    "name": "Asoka",
+    "description": "Supplement Right Metatarsal with Synthetic Substitute, Percutaneous Endoscopic Approach",
+    "status": "ONPROGRESS",
+    "costs": "241000000",
+    "target": "2025-12-17",
+    "authorId": 2
+  },
+  {
+    "name": "Stronghold",
+    "description": "Bypass Thoracic Aorta, Ascending/Arch to Right Pulmonary Artery with Synthetic Substitute, Open Approach",
+    "status": "DONE",
+    "costs": "139000000",
+    "target": "2024-01-29",
+    "authorId": 2
+  },
+  {
+    "name": "Lotstring",
+    "description": "Extirpation of Matter from Left Abdomen Tendon, Percutaneous Approach",
+    "status": "DONE",
+    "costs": "775000000",
+    "target": "2024-10-03",
+    "authorId": 2
+  },
+  {
+    "name": "Tempsoft",
+    "description": "Insertion of External Fixation Device into Right Metatarsal, Open Approach",
+    "status": "PENDING",
+    "costs": "129000000",
+    "target": "2025-03-21",
+    "authorId": 1
+  },
+  {
+    "name": "Hatity",
+    "description": "Insertion of Limb Lengthening External Fixation Device into Right Tibia, Percutaneous Approach",
+    "status": "ONPROGRESS",
+    "costs": "708000000",
+    "target": "2026-03-07",
+    "authorId": 2
+  },
+  {
+    "name": "Pannier",
+    "description": "Insertion of Infusion Device into Right Foot Vein, Open Approach",
+    "status": "PENDING",
+    "costs": "238000000",
+    "target": "2024-08-17",
+    "authorId": 3
+  },
+  {
+    "name": "Lotlux",
+    "description": "Restriction of Right Anterior Tibial Artery with Intraluminal Device, Percutaneous Approach",
+    "status": "PENDING",
+    "costs": "408000000",
+    "target": "2025-01-05",
+    "authorId": 3
+  },
+  {
+    "name": "Fix San",
+    "description": "Repair Spinal Meninges, Open Approach",
+    "status": "DONE",
+    "costs": "378000000",
+    "target": "2026-03-07",
+    "authorId": 3
+  },
+  {
+    "name": "Bitwolf",
+    "description": "Supplement Left Ankle Tendon with Synthetic Substitute, Percutaneous Endoscopic Approach",
+    "status": "DONE",
+    "costs": "935000000",
+    "target": "2025-04-20",
+    "authorId": 2
+  },
+  {
+    "name": "Asoka",
+    "description": "Fusion of Thoracolumbar Vertebral Joint with Synthetic Substitute, Anterior Approach, Anterior Column, Percutaneous Endoscopic Approach",
+    "status": "ONPROGRESS",
+    "costs": "774000000",
+    "target": "2024-06-27",
+    "authorId": 3
+  },
+  {
+    "name": "Viva",
+    "description": "Replacement of Left Lower Arm Subcutaneous Tissue and Fascia with Synthetic Substitute, Open Approach",
+    "status": "DONE",
+    "costs": "265000000",
+    "target": "2024-08-08",
+    "authorId": 2
+  },
+  {
+    "name": "Kanlam",
+    "description": "Transfer Scalp Skin, External Approach",
+    "status": "PENDING",
+    "costs": "957000000",
+    "target": "2025-10-24",
+    "authorId": 3
+  },
+  {
+    "name": "Keylex",
+    "description": "Bypass Upper Esophagus to Ileum with Autologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic",
+    "status": "PENDING",
+    "costs": "448000000",
+    "target": "2025-09-03",
+    "authorId": 1
+  },
+  {
+    "name": "Veribet",
+    "description": "Beam Radiation of Rib(s) using Heavy Particles (Protons,Ions)",
+    "status": "ONPROGRESS",
+    "costs": "399000000",
+    "target": "2026-11-23",
+    "authorId": 3
+  },
+  {
+    "name": "Stringtough",
+    "description": "Division of Left Humeral Head, Percutaneous Approach",
+    "status": "PENDING",
+    "costs": "091000000",
+    "target": "2026-10-05",
+    "authorId": 2
+  },
+  {
+    "name": "Gembucket",
+    "description": "Removal of Drainage Device from Thymus, Percutaneous Approach",
+    "status": "PENDING",
+    "costs": "875000000",
+    "target": "2026-12-24",
+    "authorId": 2
+  },
+  {
+    "name": "Treeflex",
+    "description": "Reposition Right Upper Femur, External Approach",
+    "status": "PENDING",
+    "costs": "414000000",
+    "target": "2025-05-26",
+    "authorId": 3
+  },
+  {
+    "name": "Fixflex",
+    "description": "High Dose Rate (HDR) Brachytherapy of Ear using Iridium 192 (Ir-192)",
+    "status": "DONE",
+    "costs": "989000000",
+    "target": "2023-08-06",
+    "authorId": 2
+  },
+  {
+    "name": "Andalax",
+    "description": "Drainage of Right Toe Phalanx, Percutaneous Endoscopic Approach, Diagnostic",
+    "status": "PENDING",
+    "costs": "267000000",
+    "target": "2024-10-25",
+    "authorId": 2
+  },
+  {
+    "name": "Wrapsafe",
+    "description": "Extirpation of Matter from Right Lower Arm and Wrist Muscle, Percutaneous Approach",
+    "status": "ONPROGRESS",
+    "costs": "614000000",
+    "target": "2024-11-25",
+    "authorId": 1
+  },
+  {
+    "name": "Holdlamis",
+    "description": "Repair Left 4th Toe, Percutaneous Approach",
+    "status": "ONPROGRESS",
+    "costs": "147000000",
+    "target": "2026-01-31",
+    "authorId": 1
+  },
+  {
+    "name": "Otcom",
+    "description": "Insertion of Hybrid External Fixation Device into Right Upper Femur, Percutaneous Approach",
+    "status": "DONE",
+    "costs": "230000000",
+    "target": "2026-01-17",
+    "authorId": 2
+  },
+  {
+    "name": "Regrant",
+    "description": "Revision of Spacer in Right Elbow Joint, Open Approach",
+    "status": "PENDING",
+    "costs": "657000000",
+    "target": "2023-12-20",
+    "authorId": 2
+  },
+  {
+    "name": "Lotlux",
+    "description": "Bypass Esophageal Vein to Lower Vein with Synthetic Substitute, Percutaneous Endoscopic Approach",
+    "status": "DONE",
+    "costs": "507000000",
+    "target": "2025-11-16",
+    "authorId": 2
+  },
+  {
+    "name": "Zamit",
+    "description": "Transfer Right Neck Muscle, Percutaneous Endoscopic Approach",
+    "status": "PENDING",
+    "costs": "076000000",
+    "target": "2023-10-09",
+    "authorId": 2
+  },
+  {
+    "name": "Bytecard",
+    "description": "Restriction of Left External Jugular Vein, Percutaneous Endoscopic Approach",
+    "status": "PENDING",
+    "costs": "899000000",
+    "target": "2026-08-31",
+    "authorId": 3
+  },
+  {
+    "name": "Transcof",
+    "description": "Insertion of Contraceptive Device into Right Lower Arm Subcutaneous Tissue and Fascia, Open Approach",
+    "status": "PENDING",
+    "costs": "949000000",
+    "target": "2024-10-16",
+    "authorId": 2
+  },
+  {
+    "name": "Daltfresh",
+    "description": "Plaque Radiation of Thymus",
+    "status": "ONPROGRESS",
+    "costs": "244000000",
+    "target": "2026-07-24",
+    "authorId": 2
+  },
+  {
+    "name": "Sonsing",
+    "description": "Excision of Left Carpal Joint, Percutaneous Endoscopic Approach",
+    "status": "PENDING",
+    "costs": "907000000",
+    "target": "2023-11-28",
+    "authorId": 1
+  },
+  {
+    "name": "Tampflex",
+    "description": "Fusion of Left Knee Joint with Internal Fixation Device, Percutaneous Endoscopic Approach",
+    "status": "DONE",
+    "costs": "758000000",
+    "target": "2024-07-11",
+    "authorId": 3
+  },
+  {
+    "name": "Zoolab",
+    "description": "Drainage of Right Lower Leg, Percutaneous Approach",
+    "status": "DONE",
+    "costs": "687000000",
+    "target": "2024-02-25",
+    "authorId": 3
+  },
+  {
+    "name": "Subin",
+    "description": "Dilation of Left External Iliac Artery, Bifurcation, with Four or More Drug-eluting Intraluminal Devices, Open Approach",
+    "status": "DONE",
+    "costs": "364000000",
+    "target": "2025-07-13",
+    "authorId": 3
+  },
+  {
+    "name": "Zamit",
+    "description": "Removal of External Fixation Device from Left Finger Phalanx, External Approach",
+    "status": "DONE",
+    "costs": "990000000",
+    "target": "2024-06-07",
+    "authorId": 3
+  },
+  {
+    "name": "Zoolab",
+    "description": "Ventilation, Respiration and Circulation Assessment of Circulatory System - Upper Back / Upper Extremity using Aerobic Endurance and Conditioning Equipment",
+    "status": "PENDING",
+    "costs": "616000000",
+    "target": "2026-08-06",
+    "authorId": 3
+  },
+  {
+    "name": "Kanlam",
+    "description": "Division of Left Abdomen Bursa and Ligament, Open Approach",
+    "status": "PENDING",
+    "costs": "991000000",
+    "target": "2024-02-29",
+    "authorId": 2
+  },
+  {
+    "name": "Bamity",
+    "description": "Reposition Left Tarsal Joint with Internal Fixation Device, Percutaneous Approach",
+    "status": "PENDING",
+    "costs": "489000000",
+    "target": "2025-04-22",
+    "authorId": 3
+  },
+  {
+    "name": "Treeflex",
+    "description": "Transfer Right Foot Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Open Approach",
+    "status": "DONE",
+    "costs": "417000000",
+    "target": "2024-07-17",
+    "authorId": 2
+  },
+  {
+    "name": "Treeflex",
+    "description": "Head and Facial Bones, Repair",
+    "status": "DONE",
+    "costs": "020000000",
+    "target": "2025-03-10",
+    "authorId": 2
+  },
+  {
+    "name": "Flowdesk",
+    "description": "Beam Radiation of Hypopharynx using Photons >10 MeV",
+    "status": "DONE",
+    "costs": "622000000",
+    "target": "2026-02-03",
+    "authorId": 3
+  },
+  {
+    "name": "Redhold",
+    "description": "Supplement Left Internal Mammary Artery with Nonautologous Tissue Substitute, Open Approach",
+    "status": "DONE",
+    "costs": "126000000",
+    "target": "2025-03-11",
+    "authorId": 3
+  },
+  {
+    "name": "Fix San",
+    "description": "Dilation of Right Hand Artery, Bifurcation, with Drug-eluting Intraluminal Device, Open Approach",
+    "status": "ONPROGRESS",
+    "costs": "867000000",
+    "target": "2024-12-11",
+    "authorId": 2
+  },
+  {
+    "name": "Voyatouch",
+    "description": "Fusion of Lumbar Vertebral Joint, Anterior Approach, Anterior Column, Open Approach",
+    "status": "DONE",
+    "costs": "247000000",
+    "target": "2024-03-26",
+    "authorId": 2
+  },
+  {
+    "name": "Prodder",
+    "description": "Supplement Right Toe Phalanx with Synthetic Substitute, Open Approach",
+    "status": "PENDING",
+    "costs": "250000000",
+    "target": "2025-10-19",
+    "authorId": 2
+  },
+  {
+    "name": "Trippledex",
+    "description": "Insertion of Infusion Device into Right Buttock, Open Approach",
+    "status": "DONE",
+    "costs": "572000000",
+    "target": "2025-07-25",
+    "authorId": 1
+  },
+  {
+    "name": "Redhold",
+    "description": "Insertion of External Fixation Device into Left Toe Phalangeal Joint, Percutaneous Endoscopic Approach",
+    "status": "PENDING",
+    "costs": "337000000",
+    "target": "2026-02-20",
+    "authorId": 2
+  },
+  {
+    "name": "Solarbreeze",
+    "description": "Destruction of Left Trunk Tendon, Open Approach",
+    "status": "ONPROGRESS",
+    "costs": "905000000",
+    "target": "2024-07-21",
+    "authorId": 3
+  },
+  {
+    "name": "Matsoft",
+    "description": "Low Dose Rate (LDR) Brachytherapy of Thyroid using Californium 252 (Cf-252)",
+    "status": "PENDING",
+    "costs": "825000000",
+    "target": "2024-03-27",
+    "authorId": 3
+  },
+  {
+    "name": "Domainer",
+    "description": "Alteration of Left Breast, External Approach",
+    "status": "ONPROGRESS",
+    "costs": "579000000",
+    "target": "2024-04-14",
+    "authorId": 3
+  },
+  {
+    "name": "Flowdesk",
+    "description": "Removal of Other Device from Gastrointestinal Tract, Percutaneous Approach",
+    "status": "ONPROGRESS",
+    "costs": "563000000",
+    "target": "2023-10-17",
+    "authorId": 2
+  },
+  {
+    "name": "Matsoft",
+    "description": "Revision of Zooplastic Tissue in Heart, Percutaneous Approach",
+    "status": "ONPROGRESS",
+    "costs": "279000000",
+    "target": "2024-08-02",
+    "authorId": 2
+  },
+  {
+    "name": "It",
+    "description": "Occlusion of Left Lower Extremity Lymphatic, Open Approach",
+    "status": "DONE",
+    "costs": "574000000",
+    "target": "2025-05-02",
+    "authorId": 2
+  }
+]
