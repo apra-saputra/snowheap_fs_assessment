@@ -1,5 +1,5 @@
 import { createSlice, PayloadAction, ThunkAction } from "@reduxjs/toolkit";
-import axios, { isAxiosError } from "../axios";
+import axios from "../axios";
 import { RootState } from "@/stores";
 import { errorHandler } from "@/utils/helpers";
 
@@ -93,17 +93,9 @@ export const fetchProjects =
 
       dispatch(getProjectsSuccess(payload));
     } catch (error) {
-      if (isAxiosError(error)) {
-        let errorMessage;
+      let errorMessage: string = errorHandler(error);
 
-        if (error.response) {
-          errorMessage = { ...error.response?.data.payload.errorMessage };
-        } else {
-          errorMessage = error.message;
-        }
-
-        dispatch(getProjectsFailure(errorMessage));
-      }
+      dispatch(getProjectsFailure(errorMessage));
     }
   };
 
@@ -118,11 +110,9 @@ export const fetchProjectById =
 
       dispatch(getProjectByIdSuccess(data));
     } catch (error) {
-      if (isAxiosError(error)) {
-        const result = errorHandler(error);
+      let errorMessage: string = errorHandler(error);
 
-        dispatch(getProjectsFailure(result));
-      }
+      dispatch(getProjectsFailure(errorMessage));
     }
   };
 
@@ -136,11 +126,9 @@ export const createProject =
       dispatch(addProjectSuccess());
       return response.data.payload.data;
     } catch (error) {
-      if (isAxiosError(error)) {
-        const result = errorHandler(error);
+      let errorMessage: string = errorHandler(error);
 
-        dispatch(getProjectsFailure(result));
-      }
+      dispatch(getProjectsFailure(errorMessage));
     }
   };
 
@@ -157,11 +145,9 @@ export const updateProjects =
       dispatch(addProjectSuccess());
       return response.data.payload.data;
     } catch (error) {
-      if (isAxiosError(error)) {
-        const result = errorHandler(error);
+      let errorMessage: string = errorHandler(error);
 
-        dispatch(getProjectsFailure(result));
-      }
+      dispatch(getProjectsFailure(errorMessage));
     }
   };
 
@@ -180,11 +166,9 @@ export const updateProgressProject =
       dispatch(addProjectSuccess());
       return response.data.payload.data;
     } catch (error) {
-      if (isAxiosError(error)) {
-        const result = errorHandler(error);
+      let errorMessage: string = errorHandler(error);
 
-        dispatch(getProjectsFailure(result));
-      }
+      dispatch(getProjectsFailure(errorMessage));
     }
   };
 
@@ -203,11 +187,9 @@ export const updateStatusProject =
       dispatch(addProjectSuccess());
       return response.data.payload.data;
     } catch (error) {
-      if (isAxiosError(error)) {
-        const result = errorHandler(error);
+      let errorMessage: string = errorHandler(error);
 
-        dispatch(getProjectsFailure(result));
-      }
+      dispatch(getProjectsFailure(errorMessage));
     }
   };
 
@@ -222,11 +204,9 @@ export const deleteProject =
 
       dispatch(deleteProjectSucces({ id: data.id }));
     } catch (error) {
-      if (isAxiosError(error)) {
-        const result = errorHandler(error);
+      let errorMessage: string = errorHandler(error);
 
-        dispatch(getProjectsFailure(result));
-      }
+      dispatch(getProjectsFailure(errorMessage));
     }
   };
 

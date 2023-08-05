@@ -23,6 +23,7 @@ const Login = () => {
       setEmail("");
       setPassword("");
     } catch (error) {
+      console.log(error)
       toast(error as string, "error");
     }
   };

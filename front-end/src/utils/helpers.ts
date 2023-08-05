@@ -1,3 +1,5 @@
+import { isAxiosError } from "@/stores/axios";
+
 /* Getter */
 export const formattedCurrency = (value: number) => {
   return new Intl.NumberFormat("id-ID", {
@@ -30,11 +32,16 @@ export const formattedDateInput = (date: Date): string => {
 };
 
 export const errorHandler = (error: any): string => {
-  let errorMessage;
-  if (error.response) {
-    errorMessage = error.response?.data.payload.errorMessage;
+  let errorMessage:string="";
+  
+  if (isAxiosError(error)) {
+    if (error.response) {
+      errorMessage = error.response?.data.payload.errorMessage;
+    } else {
+      errorMessage = error.message;
+    }
   } else {
-    errorMessage = error.message;
+    errorMessage = JSON.stringify(error);
   }
 
   return errorMessage;
